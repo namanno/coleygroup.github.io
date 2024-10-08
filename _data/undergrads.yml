@@ -25,11 +25,12 @@
   email: 
   description:
 
-- name: Nicolas Manno
+- name: Nicolás Manno
   photo: placeholder.png
   info: UROP @ MIT
-  email: 
-  description:
+  email: namanno@mit.edu
+  linkedin: https://www.linkedin.com/in/nicolas-manno/
+  description: Nicolás is a a senior studying 5 (Chemistry) and 18 (Mathematics) at MIT. He is interested in advancing organic synthesis by using different techniques, with ML being one of them.
 
 - name: Ray Wang
   photo: Ray_Wang.JPG
